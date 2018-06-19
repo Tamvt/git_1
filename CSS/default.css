@@ -1,0 +1,9 @@
+.khung_mon
+{
+	float: left;
+	width: 180px;
+	height: 200px;
+	margin: 5px;
+	padding: 5px;
+	border: #CCC solid 1px; 
+}
